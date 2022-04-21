@@ -18,8 +18,8 @@
   <maven.compiler.target>1.8</maven.compiler.target>
 
   <sonar.host.url>http://3.108.252.194:9000</sonar.host.url>
-  <sonar.login>harinadh</sonar.login>
-  <sonar.password>harinadh</sonar.password>
+  <sonar.login>admin</sonar.login>
+  <sonar.password>admin</sonar.password>
   </properties>
 	
 	
